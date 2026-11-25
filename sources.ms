@@ -1,0 +1,7 @@
+- Matrix correction: https://github.com/frintroper/tone-matrix-multiplication-exponent
+- LeanIsCorrupted: https://github.com/frintroper/LeanIsCorrupted
+- ToneProjekt: https://github.com/frintroper/ToneProjekt
+- RH bare kernel: https://github.com/frintroper/lean-proof-that-rh-is-trivial
+- P=NP bare kernel: https://github.com/frintroper/lean-proof-that-n-eq-np
+- Issue #41: https://github.com/leanprover-community/riemann-hypothesis/issues/41
+- X correction thread: search `from:OverThePlaces matrix OR 9/4` on 25 Nov 2026
